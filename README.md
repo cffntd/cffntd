@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! I'm Jim 👋
+
+![Twitter Follow](https://img.shields.io/twitter/follow/JimFromDallas?style=social)
+
+- 📚 I am currently learning Python, JavaScript, and SwiftUI
+- 🍎 I am currently looking to get back into macOS Scripting
+- 😴 I am not very active on here...
 
 <!--
 **jmwdmr/jmwdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
