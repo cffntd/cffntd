@@ -4,8 +4,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/JimFromDallas?style=social)
 -->
 
-- 📚 I am currently learning Python, JavaScript, and SwiftUI.
-- 🍎 I am currently looking to get back into Shell Scripting.
+- 📚 I am currently learning Web Development.
+- 🖥 I am looking to get back into Shell Scripting.
 - 🤔 I am trying to think of a memoriable domain name to register.
 - 👨🏻‍🏫 Feel free to ask me about Mac management.
 - 🥸 Sometimes I suffer from imposter syndrome.
