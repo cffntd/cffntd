@@ -1,17 +1,17 @@
 ### Hi! I'm Jim 👋
 
 <!--
-![Twitter Follow](https://img.shields.io/twitter/follow/JimFromDallas?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dcffntd?style=social)
 -->
 
-- 📚 I am currently learning Web Development.
-- 🖥 I am looking to get back into Shell Scripting.
-- 🤔 I am trying to think of a memoriable domain name to register.
-- 👨🏻‍🏫 Feel free to ask me about Mac management.
+- 📚 I am currently learning Web Development from [The Odin Project](https://github.com/TheOdinProject).
+- 🖥 I dabble in Shell Scripting and Python.
+- 🤔 I am *always* trying to think of a memoriable domain name to register.
+- 👨🏻‍🏫 Feel free to ask me questions about Mac management.
 - 🥸 Sometimes I suffer from imposter syndrome.
-- 😴 I am not very active on here...
+- ☕️ I like coffee.
 
-###### *All opinions published here are my own and should never be taken seriously! All data, code, and information comes with no warranties of any kind whatsoever, and may not be useful for anything.  Use it at your own risk! I was on the fence about the Oxford comma, but I'm beginning to see it's usefulness.*
+###### *All opinions published here are my own and should never be taken seriously! I was on the fence about the Oxford comma, but I'm beginning to see it's usefulness.*
 
 <!--
 **jmwdmr/jmwdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
