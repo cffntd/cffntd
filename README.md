@@ -4,17 +4,16 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/dcffntd?style=social)
 -->
 
-- 📚 I am currently learning Web Development from [The Odin Project](https://github.com/TheOdinProject).
-- 🖥 I dabble in Shell Scripting and Python.
+- 📚 I am learning Web Development from [The Odin Project](https://github.com/TheOdinProject).
+- 🖥 I enojy scripting automation.
 - 🤔 I am *always* trying to think of a memoriable domain name to register.
-- 👨🏻‍🏫 Feel free to ask me questions about Mac management.
+- 👨🏻‍🏫 Feel free to ask me questions about Apple device management.
 - 🥸 Sometimes I suffer from imposter syndrome.
 - ☕️ I like coffee.
 
-###### *All opinions published here are my own and should never be taken seriously! I was on the fence about the Oxford comma, but I'm beginning to see it's usefulness.*
+###### *All opinions published here are my own. I was on the fence about the Oxford comma, but I'm beginning to see it's usefulness.*
 
 <!--
-**jmwdmr/jmwdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
