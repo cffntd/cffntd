@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/dcffntd?style=social)
 -->
 
-- 📚 I am learning Web Development from [The Odin Project](https://github.com/TheOdinProject).
+<!-- - 📚 I am learning Web Development from [The Odin Project](https://github.com/TheOdinProject). -->
 - 🖥 I enojy scripting automation.
 - 🤔 I am *always* trying to think of a memoriable domain name to register.
 - 👨🏻‍🏫 Feel free to ask me questions about Apple device management.
